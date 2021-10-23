@@ -21,7 +21,5 @@ Please fork this repo and issue a PR with your changes.
 ### Copyright
 
 2021 Git.Training. All rights resreved
-
-
-### Cherry picking example
-Doing some changes in master for the cherry pick example
+## Cherry Picking Topic
+This must be cherry picked.
